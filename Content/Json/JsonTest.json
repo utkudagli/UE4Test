@@ -1,0 +1,37 @@
+{
+  "objects":[
+    {
+      "ID":1,
+      "Name": "Steve",
+      "Pos_X": 0,
+      "Pos_Y": 1,
+      "Pos_Z": 2,
+      "Scale_X": 29,
+      "Scale_Y": 20,
+      "Scale_z": 10,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adiantum_viridimontanum.jpg/1280px-Adiantum_viridimontanum.jpg"
+    },
+    {
+      "ID":2,
+      "Name": "George",
+      "Pos_X": 2,
+      "Pos_Y": 4,
+      "Pos_Z": 8,
+      "Scale_X": 2,
+      "Scale_Y": 3,
+      "Scale_z": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Peridotite_Olivine-Orthopyroxene-Clinopyroxene_-_Common_Peridotites_highlighted.png/1280px-Peridotite_Olivine-Orthopyroxene-Clinopyroxene_-_Common_Peridotites_highlighted.png"
+    },
+    {
+      "ID":3,
+      "Name": "The other one",
+      "Pos_X": 999,
+      "Pos_Y": 6,
+      "Pos_Z": 86,
+      "Scale_X": 4,
+      "Scale_Y": 5,
+      "Scale_z": 62,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Proterozoic_collage.png"      
+    }
+    ]
+}
